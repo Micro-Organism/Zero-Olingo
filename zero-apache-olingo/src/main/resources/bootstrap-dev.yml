@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-apache-olingo
+    h2:
+        console:
+            enabled: true
+            path: /console
